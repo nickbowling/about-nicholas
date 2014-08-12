@@ -10,7 +10,7 @@ body
 
 .right
 {
-  background-color:aqua;
+  background-color:#990000;
   position: relative;
   float: right;
   display: inline;
@@ -47,8 +47,8 @@ h2,h3,p
 
 #me
 {
-    height: 100px;
-    width: 100px;
+    height: 195px;
+    width: 153px;
     display: inline;
     position: relative;
     vertical-align: middle;
