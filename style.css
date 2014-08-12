@@ -1,11 +1,11 @@
 *
 {
-    font-family:times,serif;
+    font-family: Verdana, sans-serif;
 }
 
 body
 {
-    background-color: grey;
+    background-color: #009900;
 }
 
 .right
@@ -14,7 +14,7 @@ body
   position: relative;
   float: right;
   display: inline;
-  width: 49%;
+  width: 50%;
 }
 
 h2,h3,p
@@ -26,8 +26,8 @@ h2,h3,p
 {
     float: left;
     position: relative;
-    background-color:aqua;
-    width: 49%;
+    background-color:#66ffff;
+    width: 50%;
     text-align:left;
     display:inline;
 }
@@ -42,13 +42,13 @@ h2,h3,p
 #head
 {
     text-align:center;
-    background-color:blue;
+    background-color:#000099;
 }
 
 #me
 {
-    height: 195px;
-    width: 153px;
+    height: 153px;
+    width: 195px;
     display: inline;
     position: relative;
     vertical-align: middle;
@@ -58,7 +58,7 @@ h2,h3,p
 #city
 {
     height: 250px;
-    border: 2px solid green;
+    border:  5px dashed orange;
 }
 
 #head{
