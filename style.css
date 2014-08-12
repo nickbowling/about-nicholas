@@ -1,0 +1,78 @@
+*
+{
+    font-family:times,serif;
+}
+
+body
+{
+    background-color: grey;
+}
+
+.right
+{
+  background-color:aqua;
+  position: relative;
+  float: right;
+  display: inline;
+  width: 49%;
+}
+
+h2,h3,p
+{
+    margin-left: 5px;
+}
+
+.left
+{
+    float: left;
+    position: relative;
+    background-color:aqua;
+    width: 49%;
+    text-align:left;
+    display:inline;
+}
+#good
+{
+   position: relative;
+   display: inline;
+   margin-right: 20px;
+   vertical-align: middle;
+}
+
+#head
+{
+    text-align:center;
+    background-color:blue;
+}
+
+#me
+{
+    height: 100px;
+    width: 100px;
+    display: inline;
+    position: relative;
+    vertical-align: middle;
+    margin: 1px;
+}
+
+#city
+{
+    height: 250px;
+    border: 2px solid green;
+}
+
+#head{
+    border: 1px dashed orange;
+}
+
+
+h1
+{
+    color: Orange;
+}
+
+ul
+{
+    list-style: square;
+}
+    
